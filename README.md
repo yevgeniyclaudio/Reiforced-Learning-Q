@@ -2,3 +2,6 @@
 
 
 
+<p align="center">
+  <img src="RL_fun_without_NN.gif" width="900">
+</p>
